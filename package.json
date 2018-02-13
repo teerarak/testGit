@@ -1,0 +1,19 @@
+{
+  "name": "kanban",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^4.9.0",
+    "koa": "^2.4.1",
+    "koa-mysql": "^1.0.3",
+    "koa-router": "^7.3.0",
+    "mysql": "^2.15.0"
+  }
+}
