@@ -7,7 +7,7 @@ var msg = require('./app/controller/distance.controller')
 
 // App.use(async ctx => {
 //   ctx.body = 'Hello World555555555555555'
-// })
+// })//xxxx
 router.get('/:name', (ctx) => {
  ctx.body = ctx.params.name
 });
